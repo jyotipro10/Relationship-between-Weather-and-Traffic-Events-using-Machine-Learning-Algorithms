@@ -5,7 +5,7 @@ Analyzing and visualizing effect of weather event on traffic events in New York 
 
 -> Here we explored two large datasets contains around 33 milion data.\
 -> First we cleaned the traffic and weather data seperately and filtered out
-   the required columns from the two datasets.\
+    the NY state data and the required columns from the two datasets.\
 -> In the next phase, we visualize the data and discard the outliers from the datasets
    gor more generalizationns.\
 -> Then we combined the two datasets in a single dataset and sort it by start time of the events.\
@@ -27,3 +27,5 @@ Analyzing and visualizing effect of weather event on traffic events in New York 
 * Processed the dataset and extract feature vector and target variable to feed our ML models.
 * Trained the model with Logistic Regression, Support Vector Machine and MLP classifier.
 * Prepared a tree structure to visualize the patterns of effect of one event on another event.
+
+#### Cleaned weather and traffic data for New York State is provided.
