@@ -4,7 +4,7 @@ Analyzing and visualizing effect of weather event on traffic events in New York 
 ## This was a project I chose to do in my course Machine Learning and Data Analytics
 ## in Civil Engineering Applications(CE784A) under Dr. Pranamesh Chakraborty
 
--> Here we explored two large datasets contains around 33 milion data. <\br>
+-> Here we explored two large datasets contains around 33 milion data.\
 -> First we cleaned the traffic and weather data seperately and filtered out
    the required columns from the two datasets. <\br>
 -> In the next phase, we visualize the data and discard the outliers from the datasets
