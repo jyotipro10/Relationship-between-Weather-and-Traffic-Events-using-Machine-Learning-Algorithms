@@ -1,8 +1,7 @@
 # Relationship-between-Weather-and-Traffic-Events-using-Machine-Learning-Algorithms
 Analyzing and visualizing effect of weather event on traffic events in New York State in USA
 
-## This was a project I chose to do in my course Machine Learning and Data Analytics
-## in Civil Engineering Applications(CE784A) under Dr. Pranamesh Chakraborty
+## This was a project I chose to do in my course Machine Learning and Data Analytics in Civil Engineering Applications(CE784A) under Dr. Pranamesh Chakraborty
 
 -> Here we explored two large datasets contains around 33 milion data.\
 -> First we cleaned the traffic and weather data seperately and filtered out
